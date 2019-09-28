@@ -1,6 +1,6 @@
 def map(source_array)
   new = []
   i= 0 
-    while
+    while i < source_array.length
     end
 end
